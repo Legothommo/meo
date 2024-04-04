@@ -1,0 +1,4 @@
+repository "MEO@freayz@cloud"
+  path "/"
+    br "/main"
+    co "/main"
